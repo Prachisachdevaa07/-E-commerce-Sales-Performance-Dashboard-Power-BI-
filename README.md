@@ -1,4 +1,4 @@
-# E-Commerce-Sales-dashboard using POWER BI 
+# E-Commerce-Sales-dashboard using Power BI
 
 This was my first Power BI dashboard, created by following a YouTube tutorial as part of my learning process.
 
