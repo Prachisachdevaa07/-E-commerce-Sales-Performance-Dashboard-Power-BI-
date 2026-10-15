@@ -2,10 +2,6 @@
 
 An interactive business intelligence dashboard that analyses e-commerce sales performance across geography, customers, payment methods, product categories and time. It helps stakeholders quickly see what is selling, where, to whom, and how profitable it is.
 
-![Dashboard Preview](dashboard.png)
-
-> Save the dashboard screenshot as `dashboard.png` in the repository root (or update the path above).
-
 ---
 
 ## 📌 Table of Contents
