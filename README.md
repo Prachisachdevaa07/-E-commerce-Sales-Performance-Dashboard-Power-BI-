@@ -1,4 +1,4 @@
-# 🛒Retail Sales Insights & Business Intelligence Dashboard
+# 🛒. E-Commerce Sales Performance Dashboard
 
 ## 📌 Project Overview
 
