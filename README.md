@@ -81,6 +81,15 @@ This project demonstrates how sales data can be transformed into meaningful visu
 - Business intelligence and reporting
 - Insight generation and presentation
 
+## 📚 Key Learnings
+
+- Learned to create interactive dashboards using Power BI.
+- Gained practical experience in KPI tracking and data visualization.
+- Learned to analyze sales, profit, customer performance, and product categories.
+- Practiced using charts, slicers, and filters to explore business data.
+- Improved my understanding of sales trends and profitability analysis.
+- Followed YouTube tutorials to learn dashboard creation and practice data analytics concepts.
+
 ## 🚀 Conclusion
 
 The E-Commerce Sales Analysis Dashboard provides a consolidated view of sales, profitability, customer performance, and product trends. It demonstrates the practical application of data analytics and dashboard visualization to support business reporting and informed decision-making.
