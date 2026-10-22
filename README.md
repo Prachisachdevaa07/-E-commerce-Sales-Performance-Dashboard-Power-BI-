@@ -54,8 +54,6 @@ An interactive dashboard was developed to visualize key performance indicators (
 - Customer-wise analysis helps compare the sales contribution of individual customers.
 - Payment mode analysis provides visibility into customer payment preferences.
 
-*Note: Insights are based on the dashboard visualization and should be validated against the underlying dataset before making business decisions.*
-
 ## 📈 Business Value
 
 This project demonstrates how sales data can be transformed into meaningful visual insights to support:
@@ -75,14 +73,6 @@ This project demonstrates how sales data can be transformed into meaningful visu
 - Business intelligence and reporting
 - Insight generation and presentation
 
-## 📚 Key Learnings
-
-- Learned to create interactive dashboards using Power BI.
-- Gained practical experience in KPI tracking and data visualization.
-- Learned to analyze sales, profit, customer performance, and product categories.
-- Practiced using charts, slicers, and filters to explore business data.
-- Improved my understanding of sales trends and profitability analysis.
-- Followed YouTube tutorials to learn dashboard creation and practice data analytics concepts.
 
 ## 🚀 Conclusion
 
