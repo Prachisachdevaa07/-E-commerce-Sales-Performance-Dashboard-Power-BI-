@@ -6,6 +6,8 @@ This project focuses on analyzing e-commerce sales data to identify business tre
 
 An interactive dashboard was developed to visualize key performance indicators (KPIs), monthly profit trends, state-wise sales, payment methods, customer performance, product categories, and sub-category profitability.
 
+This project was completed as part of my learning journey, with the help of YouTube tutorials and hands-on practice.
+
 ## 🎯 Project Objectives
 
 - Analyze overall sales, quantity, profit, and average order value (AOV).
