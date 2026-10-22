@@ -39,12 +39,6 @@ An interactive dashboard was developed to visualize key performance indicators (
 - **State:** Filter sales by state.
 - **City:** Filter sales by city.
 
-## 🖼️ Dashboard Preview
-
-![E-Commerce Sales Dashboard](dashboard.png)
-
-> Replace `dashboard.png` with the actual image filename uploaded to your GitHub repository.
-
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel / Power BI — Dashboard creation and visualization (update to match the tool used)
